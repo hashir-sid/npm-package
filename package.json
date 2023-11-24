@@ -1,0 +1,23 @@
+{
+  "name": "npm-package-hashir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashir-sid/npm-package.git"
+  },
+  "keywords": [
+    "assignment",
+    "4"
+  ],
+  "author": "hashir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hashir-sid/npm-package/issues"
+  },
+  "homepage": "https://github.com/hashir-sid/npm-package#readme"
+}
